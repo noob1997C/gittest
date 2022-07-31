@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Для отладки вместо * прописать имя класса */
+/* * {
+    outline: 1px solid red;
+  } */
+  
